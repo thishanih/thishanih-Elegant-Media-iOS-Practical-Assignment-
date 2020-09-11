@@ -1,0 +1,6 @@
+framework module Pods_Elegant_Media_iOS_Practical_Assignment_Elegant_Media_iOS_Practical_AssignmentUITests {
+  umbrella header "Pods-Elegant Media iOS Practical Assignment-Elegant Media iOS Practical AssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Elegant_Media_iOS_Practical_Assignment_Elegant_Media_iOS_Practical_AssignmentUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Elegant_Media_iOS_Practical_Assignment_Elegant_Media_iOS_Practical_AssignmentUITests
+@end
