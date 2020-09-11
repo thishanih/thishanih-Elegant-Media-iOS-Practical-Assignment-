@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>345969708060-pstc5nqigjjhfefn76du9ju3ctmaa8du.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.345969708060-pstc5nqigjjhfefn76du9ju3ctmaa8du</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCDf9y85fFPa7jF8ScsN4tQdNYSjMYEutM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>345969708060</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>s.Elegant-Media-iOS-Practical-Assignment</string>
+	<key>PROJECT_ID</key>
+	<string>elegant-ba4d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>elegant-ba4d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:345969708060:ios:816c6bfb8f775785b123d9</string>
+	<key>DATABASE_URL</key>
+	<string>https://elegant-ba4d8.firebaseio.com</string>
+</dict>
+</plist>
